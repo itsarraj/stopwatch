@@ -1,0 +1,66 @@
+/* Styling For  */
+/* Setting  */
+body {
+  background-image: linear-gradient(
+    to bottom,
+    rgb(165, 238, 222) 66%,
+    rgb(99, 253, 215) 100%
+  );
+}
+
+@font-face {
+  font-family: "myDigital";
+  src: url("ds_digital/DS-DIGIB.TTF");
+}
+
+.options {
+  font-size: 15px;
+  font-family: myDigital !important;
+  font-weight: 10;
+}
+
+.container {
+  height: 98vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.time {
+  color: black;
+  font-size: 150px;
+  font-family: myDigital;
+}
+
+/* Styling Button  */
+button {
+  background-color: rgb(0, 0, 0);
+  color: white;
+  border: solid rgb(80, 114, 214);
+  border-width: 1ex 1ex 1ex 5ex;
+  padding: 12px 20px;
+  border-radius: 60px;
+  margin: 10px 12px;
+  font-size: 20px;
+  font-family: myDigital !important;
+  font-weight: 10;
+}
+
+button:hover {
+  background-image: linear-gradient(
+    to bottom,
+    rgb(165, 238, 222) 66%,
+    rgb(99, 253, 215) 100%
+  );
+
+  color: black;
+  border: solid rgb(60, 114, 214);
+  border-width: 1ex 1ex 1ex 5ex;
+  padding: 12px 20px;
+  border-radius: 60px;
+  margin: 10px 12px;
+  font-size: 20px;
+  font-family: myDigital !important;
+  font-weight: 10;
+}
