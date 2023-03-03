@@ -6,5 +6,5 @@
 
 ### Screensorts Below
 
-![Preview-1](https://github.com/itsarraj/stopwatch/blob/master/src/stopwatch.gif)
+![Preview-1](https://github.com/itsarraj/stopwatch/blob/master/img/stopwatch.gif)
 ![Screenshot-1](https://github.com/itsarraj/stopwatch/blob/master/img/stopwatch.png)
